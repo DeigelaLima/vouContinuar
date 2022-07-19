@@ -20,7 +20,7 @@
                                 <input type="password" class="form-control" id="password" placeholder="senha" minlength="6" required v-model="registro.password">
                                 <label for="senha">Senha: </label>
                                 <div class="invalid-feedback">
-                                    A senha é obrigatória e deve conter no mínimo 6 caractéres
+                                    A senha é obrigatoria e deve conter no mínimo 6 caracteres
                                 </div>
                             </div>
 
